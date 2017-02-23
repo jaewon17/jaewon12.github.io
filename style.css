@@ -1,0 +1,231 @@
+body {
+	background-color : #FDFCDC;
+}
+
+
+
+
+#header {
+	
+	position: relative;
+	width: 70%;
+	margin-top: -50px;
+	margin-left: 200px;
+	margin-right: 200px;
+	height: 90px;
+	
+	margin-bottom: 0px;
+	border-radius: 10px;
+	
+}
+.flag{
+	width: 20%;
+}
+#header ul{
+	list-style: none;
+	position: botton;
+	margin: 0 auto;
+	
+	
+}
+
+#header li {
+	display: inline;
+	border: 2px solid #FDFCDC;
+    font-family: Oswald;
+	color: #54FF9F;
+	padding: 10px;
+	border-radius: 7px;
+	background-color: #B22222;
+	
+
+}
+.bar {
+    font-size: 25px;
+	font-family: ;
+    
+	text-align: right;
+	float: right;
+
+}
+.navbar {
+    
+	top:-50px;
+	left:50%;
+	margin-top: -100px;
+	margin-left:0px;
+	margin-left: -100px;
+	
+	text-decoration: none;
+    
+}
+.navbar a{ 
+       text-decoration: none;
+       font-family: Oswald;
+	   color: white;
+	  
+}
+
+#left {
+   
+	 background-color: #BCEE68;
+	 position: relative;
+	 width: 42%;
+	 margin-top: 100px;
+	 margin-left: 200px;
+	 margin-right: 200px;
+	 height: 250px;
+	 border-width: 100px;
+	 border-radius: 10px;
+
+}
+
+.hello {
+	font-family: Impact, Helvetica, sans-serif;
+	font-size: 50px;
+	text-align: center;
+	}
+
+.intro {
+	font-size: 30px;
+    padding-left: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+	
+	
+}
+
+#right {
+	float: right;
+	font-size: 10px;
+	background-color:#C1FFC1;
+	position: static;
+	width: 28%;
+	margin-bottom: 0px;
+	margin-left: 10px;
+	margin-right: 205px;
+	margin-top: -250px;
+	height: 350px;
+	border-width: 100px;
+	border-radius: 10px;
+
+	
+}
+
+#home{ 
+    height: 400px;
+	width: 400px;
+}
+
+#footer {
+	
+	position: relative;
+	width: 70%;
+	margin-top: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+	height: 30px;
+	
+	margin-bottom: -100px;
+	border-radius: 10px;
+	background-color:
+
+}
+
+#text{
+	
+	 
+	 position: relative;
+	 width: 50%;
+	 margin-top: 100px;
+	 margin-left: 200px;
+	 margin-right: 200px;
+	 
+	 border-width: 100px;
+	 border-radius: 10px;
+}
+
+#intropicture{
+	
+	float: right;
+	
+	position: static;
+	width: 15%;
+	margin-bottom: 100px;
+	margin-left: 10px;
+	margin-right: 205px;
+	margin-top: -780px;
+	height: 250px;
+	border-width: 100px;
+	border-radius: 10px;
+
+	
+	
+}
+
+.me{
+	 height: 200px;
+	 width: 200px;
+}
+.history{
+	height: 200px;
+	 width: 200px;
+	 margin-top : 50px;
+}
+.family{
+	height: 200px;
+	 width: 200px;
+	 margin-top: 120px;
+	
+}
+
+.contact{
+	float : center;
+	margin-left: 330px;
+	margin-top: 90px;
+}
+th{
+	font-size: 25px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-align: left;
+	width: 380px;
+	height: 40px;
+}
+td{
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	
+	height: 30px;
+}
+
+#careerpic{
+	
+	float: right;
+	
+	position: static;
+	width: 15%;
+	margin-bottom: 100px;
+	margin-left: 10px;
+	margin-right: 205px;
+	margin-top: -530px;
+	height: 250px;
+	border-width: 100px;
+	border-radius: 10px;
+
+	
+	
+}
+
+.logo{
+	 height: 200px;
+	 width: 200px;
+}
+.hostel{
+	height: 200px;
+	 width: 200px;
+	 margin-top : 100px;
+}
+#footer{
+	margin-top: 300px;
+	position: relative;
+}
